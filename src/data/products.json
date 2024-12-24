@@ -1,0 +1,784 @@
+[
+  {
+    "id": "20",
+    "sku": "asdf141",
+    "name": "sta said",
+    "price": 360.45,
+    "discount": 0,
+    "new": true,
+    "rating": 5,
+    "saleCount": 190,
+    "category": ["furniture"],
+    "tag": ["furniture"],
+    "stock": 25,
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875"
+    ],
+    "shortDescription": "10 hoodies pack for progammers, all in different colors",
+    "fullDescription": "10 hoodies pack for progammers, all in different colors"
+  },
+  {
+    "id": "21",
+    "sku": "asdf141",
+    "name": "Zipped hoodie code blocks",
+    "price": 36.32,
+    "discount": 0,
+    "new": true,
+    "rating": 5,
+    "saleCount": 120,
+    "category": ["furniture"],
+    "tag": ["furniture"],
+    "stock": 25,
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875",
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=8752"
+    ],
+    "shortDescription": "Zipped hoodie, has programming code blocks cottonn based",
+    "fullDescription": "Zipped hoodie, has programming code blocks cottonn based"
+  }
+,{
+  "id": "28",
+  "sku": "asdf141",
+  "name": "Programmer Definition Pullover Hoodie",
+  "price": 180.32,
+  "discount":0,
+  "new": true,
+  "rating": 5,
+  "saleCount": 9,
+  "category": ["furniture"],
+  "tag": ["furniture"],
+  "stock": 25,
+  "image": [
+    "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875",
+    "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=8752"
+  ],
+  "shortDescription": "Programmer Definition Pullover Hoodie",
+  "fullDescription": "Programmer Definition Pullover Hoodie"
+},
+  {
+    "id": "1",
+    "sku": "asdf123",
+    "name": "Simple Shell Sticker",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["fashion", "men"],
+    "tag": ["fashion", "men", "jacket", "full sleeve"],
+    "variation": [
+      {
+        "color": "white",
+        "image": "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 2
+          },
+          {
+            "name": "xl",
+            "stock": 5
+          }
+        ]
+      },
+      {
+        "color": "black",
+        "image": "/assets/img/product/fashion/8.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "m",
+            "stock": 7
+          },
+          {
+            "name": "xl",
+            "stock": 9
+          },
+          {
+            "name": "xxl",
+            "stock": 1
+          }
+        ]
+      },
+      {
+        "color": "brown",
+        "image": "/assets/img/product/fashion/3.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 1
+          },
+          {
+            "name": "m",
+            "stock": 2
+          },
+          {
+            "name": "xl",
+            "stock": 4
+          },
+          {
+            "name": "xxl",
+            "stock": 0
+          }
+        ]
+      }
+    ],
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875"
+    ],
+    "shortDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors.",
+    "fullDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors."
+  },
+  {
+    "id": "2",
+    "sku": "asdf124",
+    "name": "Node.js Logo Sticker",
+    "price": 1.33,
+    "discount": 15,
+    "new": false,
+    "rating": 3,
+    "saleCount": 12,
+    "category": ["fashion", "women"],
+    "tag": ["fashion", "women", "coat", "full sleeve"],
+    "variation": [
+      {
+        "color": "blue",
+        "image": "/assets/img/product/fashion/2.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 6
+          },
+          {
+            "name": "xl",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "color": "brown",
+        "image": "/assets/img/product/fashion/4.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "m",
+            "stock": 8
+          },
+          {
+            "name": "xl",
+            "stock": 3
+          },
+          {
+            "name": "xxl",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "color": "black",
+        "image": "/assets/img/product/fashion/5.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 7
+          },
+          {
+            "name": "xl",
+            "stock": 0
+          },
+          {
+            "name": "xxl",
+            "stock": 7
+          }
+        ]
+      }
+    ],
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875"
+    ],
+    "shortDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors.",
+    "fullDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors."
+  },
+
+  {
+    "id": "3",
+    "sku": "asdf125",
+    "name": "Nodejs / TS / NPM / JS Stickers",
+    "price": 3.22,
+    "discount": 40,
+    "offerEnd": "October 2, 2024 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 36,
+    "category": ["fashion", "men"],
+    "tag": ["fashion", "men", "jacket", "full sleeve"],
+    "stock": 1,
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875"
+    ],
+    "shortDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors.",
+    "fullDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors."
+  },
+  {
+    "id": "4",
+    "sku": "asdf126",
+    "name": "Old version Node.js sticker",
+    "price": 1.23,
+    "discount": 0,
+    "new": true,
+    "rating": 4,
+    "saleCount": 20,
+    "category": ["fashion", "women"],
+    "tag": ["fashion", "women", "coat", "full sleeve"],
+    "variation": [
+      {
+        "color": "blue",
+        "image": "/assets/img/product/fashion/2.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 6
+          },
+          {
+            "name": "xl",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "color": "brown",
+        "image": "/assets/img/product/fashion/4.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "m",
+            "stock": 8
+          },
+          {
+            "name": "xl",
+            "stock": 3
+          },
+          {
+            "name": "xxl",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "color": "black",
+        "image": "/assets/img/product/fashion/5.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 7
+          },
+          {
+            "name": "xl",
+            "stock": 0
+          },
+          {
+            "name": "xxl",
+            "stock": 7
+          }
+        ]
+      }
+    ],
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875"
+    ],
+    "shortDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors.",
+    "fullDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors."
+  },
+  {
+    "id": "5",
+    "sku": "asdf127",
+    "name": "Multiple Web Dev Stickers",
+    "price": 2.99,
+    "discount": 10,
+    "new": true,
+    "rating": 5,
+    "saleCount": 25,
+    "category": ["fashion", "women"],
+    "tag": ["fashion", "women", "coat", "full sleeve"],
+    "variation": [
+      {
+        "color": "blue",
+        "image": "/assets/img/product/fashion/2.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 6
+          },
+          {
+            "name": "xl",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "color": "brown",
+        "image": "/assets/img/product/fashion/4.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "m",
+            "stock": 8
+          },
+          {
+            "name": "xl",
+            "stock": 3
+          },
+          {
+            "name": "xxl",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "color": "black",
+        "image": "/assets/img/product/fashion/5.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 7
+          },
+          {
+            "name": "xl",
+            "stock": 0
+          },
+          {
+            "name": "xxl",
+            "stock": 7
+          }
+        ]
+      }
+    ],
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875"
+    ],
+    "shortDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors.",
+    "fullDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors."
+  },
+  {
+    "id": "6",
+    "sku": "asdf128",
+    "name": "NPM Sticker",
+    "price": 1.98,
+    "discount": 0,
+    "offerEnd": "October 17, 2024 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 65,
+    "category": ["fashion", "men"],
+    "tag": ["fashion", "men", "jacket", "full sleeve"],
+    "variation": [
+      {
+        "color": "white",
+        "image": "/assets/img/product/fashion/1.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 2
+          },
+          {
+            "name": "xl",
+            "stock": 5
+          }
+        ]
+      },
+      {
+        "color": "black",
+        "image": "/assets/img/product/fashion/8.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "m",
+            "stock": 7
+          },
+          {
+            "name": "xl",
+            "stock": 9
+          },
+          {
+            "name": "xxl",
+            "stock": 1
+          }
+        ]
+      },
+      {
+        "color": "brown",
+        "image": "/assets/img/product/fashion/3.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 1
+          },
+          {
+            "name": "m",
+            "stock": 2
+          },
+          {
+            "name": "xl",
+            "stock": 4
+          },
+          {
+            "name": "xxl",
+            "stock": 0
+          }
+        ]
+      }
+    ],
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875"
+    ],
+    "shortDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors.",
+    "fullDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors."
+  },
+  {
+    "id": "7",
+    "sku": "asdf129",
+    "name": "TS Sticker Rounded Format",
+    "price": 4.33,
+    "discount": 40,
+    "new": true,
+    "rating": 5,
+    "saleCount": 55,
+    "category": ["fashion", "women"],
+    "tag": ["fashion", "women", "coat", "full sleeve"],
+    "variation": [
+      {
+        "color": "blue",
+        "image": "/assets/img/product/fashion/2.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 6
+          },
+          {
+            "name": "xl",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "color": "brown",
+        "image": "/assets/img/product/fashion/4.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "m",
+            "stock": 8
+          },
+          {
+            "name": "xl",
+            "stock": 3
+          },
+          {
+            "name": "xxl",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "color": "black",
+        "image": "/assets/img/product/fashion/5.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 7
+          },
+          {
+            "name": "xl",
+            "stock": 0
+          },
+          {
+            "name": "xxl",
+            "stock": 7
+          }
+        ]
+      }
+    ],
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875"
+    ],
+    "shortDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors.",
+    "fullDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors."
+  },
+  {
+    "id": "8",
+    "sku": "asdf130",
+    "name": "Pixelated Node.js Logo Sticker",
+    "price": 1.44,
+    "discount": 10,
+    "offerEnd": "October 18, 2024 12:11:00",
+    "new": false,
+    "rating": 5,
+    "saleCount": 83,
+    "category": ["fashion", "men"],
+    "tag": ["fashion", "men", "jacket", "full sleeve"],
+    "stock": 0,
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875"
+    ],
+    "shortDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors.",
+    "fullDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors."
+  },
+  {
+    "id": "9",
+    "sku": "asdf131",
+    "name": "Node.js in Typescript Sticker",
+    "price": 1.54,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 95,
+    "category": ["fashion", "women"],
+    "tag": ["fashion", "women", "top", "sleeveless"],
+    "stock": 5,
+    "affiliateLink": "//www.amazon.com",
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875"
+    ],
+    "shortDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors.",
+    "fullDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors."
+  },
+  {
+    "id": "10",
+    "sku": "asdf132",
+    "name": "Pink Sass Sticker",
+    "price": 3.00,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "stock": 15,
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875"
+    ],
+    "shortDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors.",
+    "fullDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors."
+  },
+  {
+    "id": "11",
+    "sku": "asdf133",
+    "name": "Sticker for Redux Doubled",
+    "price": 2.42,
+    "discount": 10,
+    "new": true,
+    "rating": 5,
+    "saleCount": 190,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "stock": 25,
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875"
+    ],
+    "shortDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors.",
+    "fullDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors."
+  },
+  {
+    "id": "12",
+    "sku": "asdf134",
+    "name": "PHP Elephant Sticker",
+    "price": 3.9,
+    "discount": 20,
+    "new": true,
+    "rating": 3,
+    "saleCount": 90,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "stock": 20,
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875"
+    ],
+    "shortDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors.",
+    "fullDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors."
+  },
+  {
+    "id": "13",
+    "sku": "asdf135",
+    "name": "Roses Are Red Terminal Sticker",
+    "price": 4.62,
+    "discount": 30,
+    "new": false,
+    "rating": 4,
+    "saleCount": 100,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "stock": 40,
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875"
+    ],
+    "shortDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors.",
+    "fullDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors."
+  },
+  {
+    "id": "14",
+    "sku": "asdf136",
+    "name": "Plain C++ Sticker",
+    "price": 3.54,
+    "discount": 10,
+    "new": true,
+    "rating": 5,
+    "saleCount": 120,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "stock": 45,
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875"
+    ],
+    "shortDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors.",
+    "fullDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors."
+  },
+  {
+    "id": "15",
+    "sku": "asdf137",
+    "name": "Golang Plain Logo Sticker",
+    "price": 1.0,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 220,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "stock": 5,
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875"
+    ],
+    "shortDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors.",
+    "fullDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors."
+  },
+  {
+    "id": "16",
+    "sku": "asdf138",
+    "name": "Vim Editor Logo Sticker",
+    "price": 7.5,
+    "discount": 20,
+    "new": true,
+    "rating": 5,
+    "saleCount": 245,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "stock": 7,
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875"
+    ],
+    "shortDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors.",
+    "fullDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors."
+  },
+  {
+    "id": "17",
+    "sku": "asdf139",
+    "name": "(10 pieces) Python Plain Logo Sticker",
+    "price": 14.71,
+    "discount": 10,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "stock": 6,
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875"
+    ],
+    "shortDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors.",
+    "fullDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors."
+  },
+  {
+    "id": "18",
+    "sku": "asdf140",
+    "name": "Computer says NOOOOO! Sticker",
+    "price": 2.34,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 900,
+    "category": ["furniture"],
+    "tag": ["furniture"],
+    "stock": 15,
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875"
+    ],
+    "shortDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors.",
+    "fullDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors."
+  },
+  {
+    "id": "19",
+    "sku": "asdf141",
+    "name": "Mobile Dev Stickers",
+    "price": 2.88,
+    "discount": 10,
+    "new": true,
+    "rating": 5,
+    "saleCount": 90,
+    "category": ["furniture"],
+    "tag": ["furniture"],
+    "stock": 25,
+    "image": [
+      "https://media.discordapp.net/attachments/778253313035599883/1278398367096897640/image.png?ex=6702c1c2&is=67017042&hm=051f330b541af16d2f71a5d18a3b3d2e886c4de818ee5b707ebc44e11a0301c7&=&format=webp&quality=lossless&width=867&height=875"
+    ],
+    "shortDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors.",
+    "fullDescription": "Simple and clean stickers for those who are like computer programming, comes in different sizes and also colors."
+  }
+  ]
